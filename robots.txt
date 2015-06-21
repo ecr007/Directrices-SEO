@@ -1,0 +1,2 @@
+- Tener presente siempre los robots.txt para evitar que los buscadores entren a carpetas que no queremos, 
+Ejemplo: Documentos que suben los clientes.
