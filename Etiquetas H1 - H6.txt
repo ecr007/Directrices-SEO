@@ -1,0 +1,9 @@
+- Estas son muy importantes tambien los buscadores
+- Es recomendable no repetirlas en una misma pagina
+
+Ejemplo:
+
+<h1>Titulo del producto</h1>
+<h2>Subtitulo</h2>
+
+....
