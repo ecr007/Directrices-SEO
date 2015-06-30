@@ -3,3 +3,5 @@ Ej: http://legalwebdom.com/solicitar-servicios.html?servicio=acta-de-nacimiento
 
 //Puede que esta de arriba de mejores resultados si queda asi
 http://legalwebdom.com/solicitar-servicios/acta-de-nacimiento.html
+
+Nota: Para hacer un test a las URL y saber si estas pasan la prueba, lo que hay que ver si al leer esta URL puede sin leer el contenido saber que hay en la pagina que pretende visitar
