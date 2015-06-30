@@ -1,2 +1,5 @@
 Es muy importante que las URL definan el contenido que se encuentra en estas.
 Ej: http://legalwebdom.com/solicitar-servicios.html?servicio=acta-de-nacimiento
+
+//Puede que esta de arriba de mejores resultados si queda asi
+http://legalwebdom.com/solicitar-servicios/acta-de-nacimiento.html
